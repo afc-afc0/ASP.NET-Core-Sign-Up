@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:DataLibrary.Logic.UserProcessor.ValidatePasswordWithUserId(System.String,System.String)">
+            <summary>Validates password through userid using ValidatePassword() function </summary>>
+        </member>
+        <member name="M:DataLibrary.Logic.UserProcessor.ValidatePasswordWithEmail(System.String,System.String)">
+            <summary>Validates password through email using ValidatePassword() function </summary>>
+        </member>
+        <member name="M:DataLibrary.Logic.UserProcessor.ValidatePassword(System.Collections.Generic.KeyValuePair{System.String,System.String},System.String)">
+            <summary>Validating password through key and value pair</summary>
+        </member>
+    </members>
+</doc>
