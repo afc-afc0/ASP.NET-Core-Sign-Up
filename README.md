@@ -1,6 +1,6 @@
 # ASP.Net client Sign Up  
 
-We are building a trading game with my friend. Currently, I am developing the server-side in ASP.NET and, my friend is developing the client-side in Unity. Game's purpose is getting resources from different places such as Mines or the Market then selling these resources through the Market, also we can generate a variety of items with these resources. Then we can sell or build other items. The first client who reaches a certain amount of money wins the game. Our goal is to develop a minimum viable product.
+We are building a trading game with my friend. Currently, I am developing the server-side in ASP.NET and, my friend is developing the client-side in Unity. Game's purpose is getting resources from different places such as Mines or the Market then selling these resources through the Market, also we can generate a variety of items with these resources. Then we can use the items for selling or building other items. The first client who reaches a certain amount of money wins the game. Our goal is to develop a minimum viable product.
  
 - Client sends json data through Unitywebrequest.
 - Asp.Net Validates user information through Fluent Validation Library(https://fluentvalidation.net). 
