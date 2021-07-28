@@ -2,6 +2,8 @@
 
 We are building a trading game with my friend. Currently, I am developing the server-side in ASP.NET and, my friend is developing the client-side in Unity. Game's purpose is getting resources from different places such as Mines or the Market then selling these resources through the Market, also we can generate a variety of items with these resources. Then we can use the items for selling or building other items. The first client who reaches a certain amount of money wins the game. Our goal is to develop a minimum viable product.
  
+I started the implementing from the client sign up, than build on it. This is just that part of the repository. I will update after implementing the other parts.  
+ 
 - Client sends json data through Unitywebrequest.
 - Asp.Net Validates user information through Fluent Validation Library(https://fluentvalidation.net). 
 - After validation. We send the data to DataLibrary.
